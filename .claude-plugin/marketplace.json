@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "fivem-lua-marketplace",
+  "description": "FiveM Lua scripting mastery plugin for Claude Code — ESX, QBCore, QBOX frameworks with structured dev process, code review, performance optimization, security hardening",
+  "owner": {
+    "name": "Alan",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "fivem-lua",
+      "description": "FiveM Lua scripting mastery — structured development process (Specify, Plan, Tasks, Implement), code review, performance optimization, security hardening for ESX, QBCore, QBOX with ox ecosystem",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alan",
+        "email": ""
+      },
+      "source": "./plugins/fivem-lua"
+    }
+  ]
+}
