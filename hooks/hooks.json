@@ -1,0 +1,19 @@
+{
+  "description": "FiveM Lua plugin hooks for automatic code quality enforcement",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": {
+          "toolName": "Write|Edit",
+          "filePath": "\\.lua$"
+        },
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/lua-quality-check.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
