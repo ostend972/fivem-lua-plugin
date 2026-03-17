@@ -1,6 +1,6 @@
 {
   "name": "fivem-lua",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "FiveM Lua scripting mastery plugin — structured development process (Specify → Plan → Tasks → Implement → Debug), code review, performance optimization, security hardening for ESX, QBCore, QBOX frameworks with ox ecosystem integration.",
   "author": {
     "name": "Alan",

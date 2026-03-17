@@ -10,7 +10,7 @@
     {
       "name": "fivem-lua",
       "description": "FiveM Lua scripting mastery — structured development process (Specify, Plan, Tasks, Implement), code review, performance optimization, security hardening for ESX, QBCore, QBOX with ox ecosystem",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "author": {
         "name": "Alan",
         "email": ""
